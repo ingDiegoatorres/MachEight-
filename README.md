@@ -38,5 +38,6 @@ Where **LIST** is an integer list of numbers, separated by comma. (For example 1
 
 And **TARGET** is an integer, indicating the number you want to obtain adding two.  (For example 3)
 
-**IMPORTANT:** Do not use spaces between numbers or commas in the **LIST** section. Use a space character to separate the list and the target number.
+**IMPORTANT:** Do not use spaces between numbers or commas in the **LIST** section. Use a space character to separate the list and the target number.  
+  
 The excercise could be solved in only one file, but for OOP principles, I decided to organize it in three files.
