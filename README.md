@@ -32,11 +32,11 @@ Inside the new class folder created:
 C:\macheight\MachEight-\class\  
 
 Please execute the command:   
-java macheight.test.Launcher **<LIST> <TARGET>**  
+java macheight.test.Launcher **LIST TARGET**  
 
-Where **<LIST>** is an integer list of numbers, separated by comma.  
+Where **LIST** is an integer list of numbers, separated by comma. (For example 1,3,5,6,4)  
 
-And **<TARGET>** is an integer, indicating the number you want to obtain adding two.  
+And **TARGET** is an integer, indicating the number you want to obtain adding two.  (For example 3)
 
-
+**IMPORTANT:** Do not use spaces between numbers or commas in the **LIST** section. Use a space character to separate the list and the target number.
 
