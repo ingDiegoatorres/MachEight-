@@ -3,20 +3,21 @@ TestExcercise
 
 ## Compiling project
 
-Please compile and run this project in Java 17 or newer.
+Please compile and run this project in **Java 17** or newer.
 Created in eclipse. 
 
 
-Contains 3 clases:
-Launcher -> The main class (Parse command line arguments, launch solution)
-Numbers  -> Record to store each pair of numbers that apply.
-Solution -> Implementation of algorithm.
+**Contains 3 clases:**
 
+**Launcher** -> The main class (Parse command line arguments, launch solution)
+**Numbers**  -> Record to store each pair of numbers that apply.
+**Solution** -> Implementation of algorithm.
 
 
 
 Assuming your code is on this folder:
-	C:\macheight\MachEight-\
+
+'''C:\macheight\MachEight-\'''
 
 and your commandd line is on that folder, please run this command (inside the proyect structure folder)
 
