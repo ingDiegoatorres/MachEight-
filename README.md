@@ -15,19 +15,19 @@ Created in eclipse.
 
 
 
-Assuming your code is on this folder:  
+Assuming your code is on this folder:    
+  
+C:\macheight\MachEight-\  
+  
+and your command line is on that folder, please run this command (inside the project structure folder MachEight-\)  
 
-'''C:\macheight\MachEight-\'''  
-
-and your commandd line is on that folder, please run this command (inside the proyect structure folder)  
-
-javac -d ./class/ ./src/macheight/test/Launcher.java ./src/macheight/test/Solution.java ./src/macheight/test/Numbers.java  
+javac -d ./class/ ./src/macheight/test/*.java
 
 This will compile the java files and will create the class files.  
 
 ## Running project
 
-Inside the new class folder created:  
+Inside the new "class" folder created:  
 
 C:\macheight\MachEight-\class\  
 
